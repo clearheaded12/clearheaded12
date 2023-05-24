@@ -28,8 +28,8 @@
   </div>
 
 ---
-
 ### 💻 Технологии:
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -78,7 +78,7 @@
 | stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
 | skillfactory.ru/python-developer/ Факультет Backend разработки  | 11/2022 - 08/2023 |
 
---- -->
+
 
 ### 💻 Codewars:
 
@@ -91,10 +91,10 @@
     <td>
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=clearheaded12&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
-    <td>
+<!--     <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=
 clearheaded12&layout=compact&theme=vision-friendly-dark" />
-    </td>
+    </td> -->
   </tr>
 </table>
 
